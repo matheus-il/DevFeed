@@ -26,7 +26,7 @@ interface PostProps {
 
 export function Post({ author, publishedAt, content }: PostProps) {
     const [comments, setComments] = useState([
-        'Post muito bacana, hein?!'
+        'Este comentário pode ser apagado. 😀 Não se esqueça de aplaudir 👏'
     ]);
 
     const [newCommentText, setNewCommentText] = useState('');
@@ -87,7 +87,7 @@ export function Post({ author, publishedAt, content }: PostProps) {
                     if (line.type === 'paragraph') {
                         return <p key={line.content}>{line.content}</p>;
                     } else if (line.type === 'link') {
-                        return <p key={line.content}><a href="#">{line.content}</a></p>
+                        return <p key={line.content}><a href={`https://${line.content}`} target="_blank">{line.content}</a></p>
                     }
                 })}
             </div>
