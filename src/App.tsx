@@ -1,5 +1,5 @@
 import { Header } from './components/Header';
-import { Post } from './components/Post'
+import { Post, PostProps } from './components/Post'
 import { Sidebar } from './components/Sidebar';
 
 import styles from './App.module.css';
@@ -35,7 +35,7 @@ const posts = [
     ],
     publishedAt: new Date('2022-05-10 20:00:00'),
   },
-];
+] as PostProps[];
 
 export function App() {
   return (
