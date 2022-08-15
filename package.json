@@ -7,7 +7,8 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy":"npm run build && git commit -m 'atualizado dist' && git subtree push --prefix dist origin gh-pages"
   },
   "dependencies": {
     "date-fns": "^2.29.1",
