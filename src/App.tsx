@@ -16,7 +16,7 @@ const posts = [
     },
     content: [
       { type: 'paragraph', content: 'Fala galera 👋' },
-      { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifólio. Um projeto que fiz no curso Ignite, da Rocketseat. E estou adorando criar esses projetos e compartilhar aqui. 🚀' },
+      { type: 'paragraph', content: 'Acabei de subir mais esse projeto para o meu portifólio. Foi o primeiro módulo Ignite, da Rocketseat. E estou adorando criar esses projetos e compartilhar aqui. 🚀' },
       { type: 'link', content: 'github.com/matheus-il' },
     ],
     publishedAt: new Date('2022-05-03 20:00:00'),
