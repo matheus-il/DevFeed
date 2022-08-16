@@ -17,4 +17,20 @@ URL: https://matheus-il.github.io/ignite-reactjs-projeto-01/
 - **[date-fns](https://www.npmjs.com/package/date-fns)**
   
 ## Site
-![Site image](https://i2.extraimage.info/pix/2022/08/15/dc72304ad579b31a347f17eb8e200161.jpg)
+![Site DevFeed](https://user-images.githubusercontent.com/22305898/184757866-d9ac1474-cd2d-48b3-8bdc-7ac4ad0e7d6e.jpg)
+
+
+## 🧪 Experimente
+Baixe o projeto para seu ambiente local:
+```bash 
+git clone https://github.com/matheus-il/ignite-reactjs-projeto-01.git
+```
+Entre na pasta e instale as dependências:
+```bash
+cd ignite-reactjs-projeto-01.git
+npm install
+```
+Execute!
+```bash
+npm run dev
+```
