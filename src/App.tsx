@@ -16,7 +16,7 @@ const posts = [
     },
     content: [
       { type: 'paragraph', content: 'Fala galera 👋' },
-      { type: 'paragraph', content: 'Acabei de subir mais esse projeto para o meu portifólio. Foi o primeiro módulo Ignite, da Rocketseat. E estou adorando criar esses projetos e compartilhar aqui. 🚀' },
+      { type: 'paragraph', content: 'Acabei de subir mais esse projeto para o meu portifólio. Estudando sempre! E estou adorando criar esses projetos e compartilhar aqui. 🚀' },
       { type: 'link', content: 'github.com/matheus-il' },
     ],
     publishedAt: new Date('2022-05-03 20:00:00'),
@@ -29,9 +29,8 @@ const posts = [
       role: 'Educador'
     },
     content: [
-      { type: 'paragraph', content: 'Fala galera 👋' },
-      { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀' },
-      { type: 'link', content: 'jane.design/doctorcare' },
+      { type: 'paragraph', content: 'Fala Math!' },
+      { type: 'paragraph', content: 'Excelente, mais um projeto! Praticar sempre e se manter atualizado é o segredo 🚀' },
     ],
     publishedAt: new Date('2022-05-10 20:00:00'),
   },
