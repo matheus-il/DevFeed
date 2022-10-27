@@ -3,7 +3,7 @@
 📚 Proposta: Criar uma plataforma de interação entre devs, com posts onde é possível interagir na forma de comentários e likes.
   
   
-URL: https://matheus-il.github.io/ignite-reactjs-projeto-01/
+URL: https://matheus-il.github.io/DevFeed/
   
 <!-- https://www.figma.com/file/18iLYsRJaTy3j0o9rQHt23/Ignite-Feed-(Community)?node-id=0%3A1 -->
   
