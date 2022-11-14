@@ -23,11 +23,11 @@ URL: https://matheus-il.github.io/DevFeed/
 ## 🧪 Experimente
 Baixe o projeto para seu ambiente local:
 ```bash 
-git clone https://github.com/matheus-il/ignite-reactjs-projeto-01.git
+git clone https://github.com/matheus-il/DevFeed.git
 ```
 Entre na pasta e instale as dependências:
 ```bash
-cd ignite-reactjs-projeto-01.git
+cd DevFeed
 npm install
 ```
 Execute!
